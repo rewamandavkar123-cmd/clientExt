@@ -1,1 +1,2 @@
-alert("js is working")
+alert("JS Loaded Successfully!");
+console.log("JS is working");
